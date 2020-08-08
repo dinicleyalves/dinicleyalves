@@ -4,8 +4,6 @@ Meu nome é Dinicley Alves, sou Desenvolvedor, Professor, Autodidata e apaixonad
 Entre em contato via:
 [LinkedIn](https://linkedin.com/in/dinicleyalves)
 
-[![My website](http://dinicleyalves.com.br/)]
-
 ![Welcome](https://github.com/dinicleyalves/blob/master/github-profile-header.png?raw=true)
 
 ![Dinicley Alves's github stats](https://github-readme-stats.vercel.app/api?username=dinicleyalves&show_icons=true&theme=radical)
