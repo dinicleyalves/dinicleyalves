@@ -1,7 +1,7 @@
 ### Hi there 👋.
 
 Meu nome é Dinicley Alves, sou Desenvolvedor, Professor, Autodidata e apaixonado por tecnologia.
-Contact-me on:
+Entre em contato via:
 [LinkedIn](https://linkedin.com/in/dinicleyalves)
 
 [![My website](http://dinicleyalves.com.br/)]
