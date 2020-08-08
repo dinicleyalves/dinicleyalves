@@ -1,11 +1,28 @@
-### Hi there 👋
+### Hi there 👋.
+
+Meu nome é Dinicley Alves, sou Desenvolvedor, Professor, Autodidata e apaixonado por tecnologia.
+Contact-me on:
+[LinkedIn](https://linkedin.com/in/dinicleyalves)
+
+[![My website](http://dinicleyalves.com.br/)]
+
+![Welcome](https://github.com/dinicleyalves/blob/master/github-profile-header.png?raw=true)
+
+![Dinicley Alves's github stats](https://github-readme-stats.vercel.app/api?username=dinicleyalves&show_icons=true&theme=radical)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dinicleyalves&repo=ElephantGame)](https://github.com/dinicleyalves/ElephantGame)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinicleyalves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<details>
+  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  
+  <br>
+    This is going to be hidden. 
+ </details>
 
 <!--
-**dinicleyalves/dinicleyalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
- - hello!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
