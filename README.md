@@ -23,10 +23,10 @@
 <br/>
 <br/>
 
-Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Science | Machine Learning | Deep Learning | Android Development | Java | Python | Competitive Programming
+Developer | Technology consultant | Computer teacher | Digital Entrepreneur | Passionate about everything that involves technology
 
 ## About 🚀
-Teacher, Consultant, Web Developer, self-taught and passionate about technology.
+Teacher, Consultant, Web Developer, self-taught and passionate about technology - My Website (https://dinicleyalves.com.br) (In Construction)
 
 ## Communities 🚀
 - Indirectly a participant in the [PHP PA] - (https://phppa.org) (PHP Community)
@@ -35,7 +35,7 @@ Teacher, Consultant, Web Developer, self-taught and passionate about technology.
 
 ## Technologies (studying) 🚀
 - PHP
-- SQL 
+- Python 
 - JavaScript
 - Node.JS
 - React.JS
@@ -67,11 +67,10 @@ Teacher, Consultant, Web Developer, self-taught and passionate about technology.
 
 ##  Contact Me 🚀 
 
-[![Twitter Badge](https://img.shields.io/badge/-@dinicleyalves?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dinicleyalves)](https://twitter.com/dinicleyalves) [![Linkedin Badge](https://img.shields.io/badge/-ashwanisng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinicleyalves/)](https://www.linkedin.com/in/dinicleyalves/) [![Gmail Badge](https://img.shields.io/badge/-dinicleyalvess@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dinicleyalvess@gmail.com)](mailto:dinicleyalves@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@dinicleyalves?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/dinicleyalves/)](https://www.instagram.com/dinicleyalves/)
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ashwanisng/count.svg" />
+  <img src="https://profile-counter.glitch.me/dinicleyalves/count.svg" />
 </p>
 
 
