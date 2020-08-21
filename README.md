@@ -1,5 +1,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/dinicleyalves?label=Follow)](https://twitter.com/dinicleyalves)
 [![Linkedin: dinicleyalves](https://img.shields.io/badge/-Dinicley%20Alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinicleyalves/)](https://www.linkedin.com/in/dinicleyalves/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dinicleyalves)  
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dinicleyalves)
+[![Twitter Badge](https://img.shields.io/badge/-@dinicleyalves-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dinicleyalves) 
 
 
 ## Hi, I'm Dinicley Alves, a Developer 🚀 from Brazil. 
