@@ -1,4 +1,5 @@
-<img src='https://twitter.com/dinicleyalves/photo' />
+[![Twitter Follow](https://img.shields.io/twitter/follow/dinicleyalves?label=Follow)](https://twitter.com/dinicleyalves)
+[![Linkedin: dinicleyalves](https://img.shields.io/badge/-Dinicley%20Alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinicleyalves/)](https://www.linkedin.com/in/dinicleyalves/)
 
 
 ## Hi, I'm Dinicley Alves, a Developer 🚀 from Brazil. 
