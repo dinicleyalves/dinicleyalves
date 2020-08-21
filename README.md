@@ -1,7 +1,5 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/dinicleyalves?label=Follow)](https://twitter.com/dinicleyalves)
 [![Linkedin: dinicleyalves](https://img.shields.io/badge/-Dinicley%20Alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinicleyalves/)](https://www.linkedin.com/in/dinicleyalves/)  
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dinicleyalves)
-
 
 ## Hi, I'm Dinicley Alves, a Developer 🚀 from Brazil. 
  
