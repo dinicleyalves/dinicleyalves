@@ -25,13 +25,12 @@
 
 Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Science | Machine Learning | Deep Learning | Android Development | Java | Python | Competitive Programming
 
-## About : 🚀:
-B.tech 3rd year Computer Science student. Currently working as a Contributor in Open Source organization Student Code-in and PClub Summer Of Code. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development and Data Analysis.
+## About 🚀
+Teacher, Consultant, Web Developer, self-taught and passionate about technology.
 
-## Communities :dancers:
-- Contributer at [Student Code-in](https://scodein.tech/) ( An Open Source organization.)
-- Contributer at [PClub Summer Of Code](http://pclubsummerofcode.in/) ( ( An Open Source organization.)
-- Campus Ambassador at [HackerEarth](https://www.hackerearth.com/challenges/)
+## Communities 🚀
+- Indirectly a participant in the [PHP PA] (https://phppa.org/) (PHP Community)
+- Indirectly a participant in the [PHP TO] (In constrution)
 
 ## Technologies :fire:
 - Data Analysis with **Python**.
