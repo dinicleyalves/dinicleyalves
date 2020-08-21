@@ -23,13 +23,16 @@
   <img align="left" alt="Dinicley Alves" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
-<br/>
-<br/>
+<a href="https://www.youtube.com/dinicleyalves">
+  <img align="left" alt="Dinicley Alves" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
-Developer | Technology consultant | Computer teacher | Digital Entrepreneur | Passionate about everything that involves technology
+<br/>
+<br/>
 
 ## About 🚀
-Teacher, Consultant, Web Developer, self-taught and passionate about technology - My Website (https://dinicleyalves.com.br) (In Construction)
+
+Developer | Technology consultant | Computer teacher | Digital Entrepreneur | Passionate about everything that involves technology
 
 ## Communities 🚀
 - Indirectly a participant in the [PHP PA] - (https://phppa.org) (PHP Community)
@@ -73,18 +76,17 @@ Teacher, Consultant, Web Developer, self-taught and passionate about technology 
 - How to concat
 
 - 🔗 I have a personal website at [https://dinicleyalves.com.br](https://dinicleyalves.com.br?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) 
-- 🐦 [@_dinicleyalves](https://twitter.com/dinicleyalves)
+- 🐦 [@dinicleyalves](https://twitter.com/dinicleyalves)
 - 💬 [Telegram](https://t.me/dinicleyalves)
 - 📹 [Subscribe on YouTube](https://www.youtube.com/channel/UCNFadfe0fkDVRKo9N-Rc8tQ?sub_confirmation=1)
 - 📧 You can also send me an [email](mailto:contato@dinicleyalves.com.br)
 
-## Visitor 
+## Visitors 
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/dinicleyalves/count.svg" />
 </p>
-
 
 <div align="center">
 
