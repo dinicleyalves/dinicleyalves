@@ -1,7 +1,7 @@
-<!-- Your title -->
-## Hi, I'm Dinicley Alves, a Developer 🚀 from Brazil. <a href="https://twitter.com/dinicleyalves">
-  <img align="left" alt="Dinicley Alves Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svghttps://drive.google.com/file/d/1P3jHySHFu3IpprDjQibdVumyrsGdUSad/view?usp=sharing" />
-</a> 
+<img src='https://drive.google.com/file/d/1P3jHySHFu3IpprDjQibdVumyrsGdUSad/view?usp=sharing' />
+
+
+## Hi, I'm Dinicley Alves, a Developer 🚀 from Brazil. 
  
  <a href="https://twitter.com/dinicleyalves">
   <img align="left" alt="Dinicley Alves Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
