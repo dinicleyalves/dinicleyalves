@@ -1,2 +1,2 @@
 <!-- Your title -->
-## Hi, I'm Murillo Comino, a Developer 🚀 from Brazil.
+## Hi, I'm Dinicley Alves, a Developer 🚀 from Brazil.
