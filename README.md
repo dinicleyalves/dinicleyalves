@@ -29,20 +29,18 @@ Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Scie
 Teacher, Consultant, Web Developer, self-taught and passionate about technology.
 
 ## Communities 🚀
-- Indirectly a participant in the [PHP PA] (https://phppa.org/) (PHP Community)
-- Indirectly a participant in the [PHP TO] (In constrution)
+- Indirectly a participant in the [PHP PA] - (https://phppa.org) (PHP Community)
+- Indirectly a participant in the [PHP TO] - (In constrution)
+- Entusiast of [InfoTech Bannach] - (https;//infotech.dinicleyalves.com.br)
 
-## Technologies :fire:
-- Data Analysis with **Python**.
-- Data Science.
-- Mobile application development using **Android (Java)**.
-- Python.
-- Java
-- Competitive Programming.
-- Machine Learning
-- Deep Learning
+## Technologies (studying) 🚀
+- PHP
+- SQL 
+- JavaScript
+- Node.JS
+- React.JS
 
-**Languages and Tools:**  
+**Languages and Tools:** 🚀 
 
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
@@ -58,16 +56,16 @@ Teacher, Consultant, Web Developer, self-taught and passionate about technology.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-<a href="https://github.com/ashwanisng">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanisng&theme=radical&hide=glsl,python" />
+<a href="https://github.com/dinicleyalves">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinicleyalves&theme=radical&hide=glsl,python" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashwanisng&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=dinicleyalves&&show_icons=true&theme=radical&line_height=27&v=5" alt="Dinicley Alves GitHub Stats" />
 
 
-<a href="https://github.com/ashwanisng/Covid-19-Data-Analysis">
+<a href="https://github.com/dinicleyalves/ElephantGame">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwanisng&repo=Covid-19-Data-Analysis&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dinicleyalves&repo=ElephantGame&theme=radical" />
 </a>    
 
 
