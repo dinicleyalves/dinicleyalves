@@ -1,4 +1,4 @@
-<img src='https://drive.google.com/file/d/1P3jHySHFu3IpprDjQibdVumyrsGdUSad/view?usp=sharing' />
+<img src='https://twitter.com/dinicleyalves/photo' />
 
 
 ## Hi, I'm Dinicley Alves, a Developer 🚀 from Brazil. 
