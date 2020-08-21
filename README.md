@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Dinicley Alves, a Developer 🚀 from Brazil.
+## Hi, I'm Dinicley Alves, a Developer 🚀 from Brazil. <img align="left" src="https://drive.google.com/file/d/1P3jHySHFu3IpprDjQibdVumyrsGdUSad/view?usp=sharing">
  
  <a href="https://twitter.com/dinicleyalves">
   <img align="left" alt="Dinicley Alves Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -31,7 +31,7 @@ Teacher, Consultant, Web Developer, self-taught and passionate about technology 
 ## Communities 🚀
 - Indirectly a participant in the [PHP PA] - (https://phppa.org) (PHP Community)
 - Indirectly a participant in the [PHP TO] - (In constrution)
-- Entusiast of [InfoTech Bannach] - (https;//infotech.dinicleyalves.com.br)
+- Entusiast of [InfoTech Bannach] - (https://infotech.dinicleyalves.com.br)
 
 ## Technologies (studying) 🚀
 - PHP
@@ -67,6 +67,7 @@ Teacher, Consultant, Web Developer, self-taught and passionate about technology 
 
 ##  Contact Me 🚀 
 
+## Visitor 
 
 <p align="center"> 
   Visitor count<br>
