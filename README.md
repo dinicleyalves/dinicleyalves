@@ -70,6 +70,14 @@ Teacher, Consultant, Web Developer, self-taught and passionate about technology 
 
 ##  Contact Me 🚀 
 
+- How to concat
+
+- 🔗 I have a personal website at [https://dinicleyalves.com.br](https://dinicleyalves.com.br?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) 
+- 🐦 [@_dinicleyalves](https://twitter.com/dinicleyalves)
+- 💬 [Telegram](https://t.me/dinicleyalves)
+- 📹 [Subscribe on YouTube](https://www.youtube.com/channel/UCNFadfe0fkDVRKo9N-Rc8tQ?sub_confirmation=1)
+- 📧 You can also send me an [email](mailto:contato@dinicleyalves.com.br)
+
 ## Visitor 
 
 <p align="center"> 
