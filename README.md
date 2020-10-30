@@ -72,7 +72,7 @@ Developer | Technology consultant | Computer teacher | Digital Entrepreneur | Pa
 
 ##  Contact Me 🚀 
 
-- How to concat
+- How to contact
 
 - 🔗 I have a personal website at [https://dinicleyalves.com.br](https://dinicleyalves.com.br?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) 
 - 🐦 [@dinicleyalves](https://twitter.com/dinicleyalves)
