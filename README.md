@@ -74,7 +74,7 @@ Developer | Technology consultant | Computer teacher | Digital Entrepreneur | Pa
 
 - How to contact
 
-- 🔗 I have a personal website at [https://dinicleyalves.com.br](https://dinicleyalves.com.br?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) 
+- 🔗 I have a personal website at, look this -> [https://dinicleyalves.com.br](https://dinicleyalves.com.br?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) 
 - 🐦 [@dinicleyalves](https://twitter.com/dinicleyalves)
 - 💬 [Telegram](https://t.me/dinicleyalves)
 - 📹 [Subscribe on YouTube](https://www.youtube.com/channel/UCNFadfe0fkDVRKo9N-Rc8tQ?sub_confirmation=1)
